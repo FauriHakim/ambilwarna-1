@@ -25,6 +25,7 @@ dependencies {
     compile 'com.github.yukuku:ambilwarna:2.0.1'
 }
 ```
+You can add the code in build.gradle.
 
 Screenshots
 ===========
